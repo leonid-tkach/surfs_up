@@ -1,4 +1,4 @@
 {
-  "python.defaultInterpreterPath": "python",
-  "python.envFile": "${C:\\Users\\lt\\anaconda3\\envs\\PythonData}/.env"
+  "python.defaultInterpreterPath": "C:\\Users\\lt\\anaconda3\\envs\\PythonData",
+  "python.envFile": "${}/.env"
 }
